@@ -1,13 +1,4 @@
-# Discord Server Cloner 2x
-
-*Support the project by leaving a :star:*
-
----
-
-## Overview
-This project was made to make your life easier, instead of spending hours trying to make your server as beautiful as possible you can simply clone a server with this tool
-
-**More information:** [Cloner Website](https://cloner-one.vercel.app/)
+# Holy Discord Cloner By Sexy Comet
 
 ## How to use
 ```typescript
@@ -27,7 +18,7 @@ $ npm i -g tsx
 ```typescript
 $ tsx .
 ```
-**You can also use [codesandbox](https://codesandbox.io/dashboard/recent) to start the cloner**
+**You can also use [codesandbox](https://codesandbox.io/p/github/debasish26/Holy-Discord-Cloner/draft/jolly-wildflower?workspaceId=5b2921c3-c26e-4aff-ad34-d6c0134841d8) to start the cloner**
 
 ----
 
