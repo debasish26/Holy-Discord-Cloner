@@ -51,7 +51,7 @@ client.on("ready", async () => {
     .setName('☣ Sexy Comet')
     .setState('🛠 Running...')
     .setDetails('The best server about selfbots and bots')
-    .setAssetsLargeImage('https://ibb.co/znKZYn5')
+    .setAssetsLargeImage('https://cdn.discordapp.com/icons/1014921352500756500/d2ed4735e5e40808124696fe97bc4c9d.png?size=2048')
     .setAssetsLargeText('Sexy Comet')
     .setAssetsSmallImage('https://media.discordapp.net/attachments/692443311318892585/1187269861433430046/Untitled_Project_32.jpg?ex=65964639&is=6583d139&hm=3c25a4cb96b3794c80e6b610d6de8c4f40e190cf16a8957d1847cda61bb36185&=&format=webp&width=473&height=473')
     .setAssetsSmallText('Join')
