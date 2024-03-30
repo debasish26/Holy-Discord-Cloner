@@ -47,7 +47,7 @@ client.on("ready", async () => {
   const r = new Discord.RichPresence()
     .setApplicationId('1146949248617828455')
     .setType('PLAYING')
-    .setURL('https://discord.gg/kZHWBcQTpy')
+    .setURL('https://discord.gg/4btAqBWRmb')
     .setName('☣ Sexy Comet')
     .setState('🛠 Running...')
     .setDetails('The best server about selfbots and bots')
