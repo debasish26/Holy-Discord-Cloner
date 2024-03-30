@@ -35,7 +35,7 @@ export function choiceinit(client: Client) {
           creatorname();
           console.log(
             gradient(["red", "purple"])(
-              "Link: https://discord.gg/kZHWBcQTpy"
+              "Link: https://discord.gg/4btAqBWRmb"
             )
           );
           awaitenter(client);
@@ -157,7 +157,7 @@ export async function Cloner(
           return;
         }*/
         const newGuild = await client.guilds.create(
-          'Infinite Community Cloner',
+          'Sexy Comets Server',
           {
             icon:
               'https://cdn.discordapp.com/attachments/1014927587954393098/1145100637281992784/infinite_logo.png',
@@ -232,7 +232,7 @@ export async function Cloner(
         if (cloneOption === 3) {
           const template = await newGuild.createTemplate(
             `${guild.name}`,
-            `By Sexy Comet (https://discord.gg/kZHWBcQTpy)`
+            `By Sexy Comet (https://discord.gg/4btAqBWRmb)`
           );
           console.log(gradient(["#FFEB3B", "#FFC107", "#FF9800", "#FF5722"])(`» Template Url: ${template.url}`));
         }
