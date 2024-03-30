@@ -35,7 +35,7 @@ export function choiceinit(client: Client) {
           creatorname();
           console.log(
             gradient(["red", "purple"])(
-              "Link: https://discord.gg/infinite-community-1014921352500756500"
+              "Link: https://discord.gg/kZHWBcQTpy"
             )
           );
           awaitenter(client);
@@ -232,7 +232,7 @@ export async function Cloner(
         if (cloneOption === 3) {
           const template = await newGuild.createTemplate(
             `${guild.name}`,
-            `By Infinite community (https://discord.gg/infinite-community-1014921352500756500)`
+            `By Sexy Comet (https://discord.gg/kZHWBcQTpy)`
           );
           console.log(gradient(["#FFEB3B", "#FFC107", "#FF9800", "#FF5722"])(`» Template Url: ${template.url}`));
         }
