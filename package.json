@@ -1,0 +1,16 @@
+{
+  "name": "discord-server-cloner-2x-main",
+  "version": "1.0.0",
+  "description": "*Support the project by leaving a :star:*",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord": "^0.8.2",
+    "loader": "^2.1.1",
+    "tsx": "^4.7.1"
+  }
+}
